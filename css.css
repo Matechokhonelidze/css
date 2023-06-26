@@ -1,0 +1,48 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(224, 114, 24);
+    border: 1px black solid;
+ }
+ div {
+    
+    background-color: rgb(224, 114, 24);
+    height: 400px;
+    width: 650px;
+    color: rgb(0, 0, 0);
+    margin-left: 300px;
+    margin-top: 180px;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ }
+ iframe{
+   padding: 6px;
+ }
+  .nd{
+    position: static;
+    background-color: rgb(224, 114, 24);
+    height: 350px;
+    width: 650px;
+    color: rgb(0, 0, 0);  
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 30px;
+    font-style: italic;
+    font-variant: small-caps;
+    color: rgb(255, 255, 255);
+   
+    
+
+}
+a{
+    color: rgb(255, 255, 255);
+}
